@@ -1,0 +1,5 @@
+Criar um programa com interface aonde seja possível adicionar, editar, excluir e listar dados das informações inseridas.
+A esttrutura de dados deve possibilitar a seguinte organização de dados:
+	-Um curso possui várias Turmas;
+	-Uma turma possui vários Blocos;
+	-Um bloco possui várias disciplinas;
